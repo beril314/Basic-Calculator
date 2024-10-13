@@ -6,6 +6,7 @@
 //find ways to improve the code
 import java.util.Scanner;
 
+
 public class simpleCalculator {
     private static final int ADDITION = 0;
     private static final int SUBTRACTION = 1;
